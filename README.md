@@ -2,7 +2,7 @@
 
 > tl;dr: 0.06% of the publicly-addressable IPv4 space is listening to and responding on TCP Port 0. Why? idk...
 
-Note: Never interact with a computer system beyond your level of authorization (i.e. without getting permission first). 
+Note: Never interact with a computer system beyond your level of authorization (i.e. without getting permission first). Connecting for a TCP handshake is fine... It's how the Internet works. Doing stuff beyond that is left as an excercise for the reader and, again, don't break the law as you do research (A strategy on how to exploit this phenomenon, stay legal, and possibly make some money is at the bottom of this post).
 
 It started with this tweet:
 
