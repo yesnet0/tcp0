@@ -1,5 +1,4 @@
-# tcp0
-Research into publicly addressable tcp:0 
+# WTF is going on with TCP:0?
 
 > tl;dr: 0.06% of the publicly-addressable IPv4 space is listening to and responding on TCP Port 0. Why? idk...
 
